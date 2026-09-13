@@ -1,0 +1,6 @@
+{
+  "name": "GTA 6 Launch Countdown, Verified Cheats & Hardware Bottleneck Tool",
+  "description": "Free interactive GTA companion tool. Verified GTA 5 PS5/Xbox controller combos, working in-game cell dialer, storage bottleneck calculator, and official GTA 6 launch tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
